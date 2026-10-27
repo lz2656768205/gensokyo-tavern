@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#5a211c"/><stop offset="0.55" stop-color="#96382f"/>
+    <stop offset="1" stop-color="#3c1612"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.28" cy="0.2" r="0.8">
+    <stop offset="0" stop-color="#d6786f" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#c94b3f" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.6" fill="#fff" opacity="0.05"/>
+  </pattern>
+  <clipPath id="clip"><rect width="600" height="600" rx="0"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <rect width="600" height="600" fill="url(#glow)"/>
+  <rect width="600" height="600" fill="url(#grain)"/>
+  <circle cx="301" cy="283" r="1" fill="#fff" opacity="0.58"/><circle cx="465" cy="13" r="1" fill="#fff" opacity="0.48"/><circle cx="82" cy="128" r="1.6" fill="#fff" opacity="0.19"/><circle cx="258" cy="11" r="1" fill="#fff" opacity="0.32"/><circle cx="326" cy="169" r="1" fill="#fff" opacity="0.59"/><circle cx="34" cy="440" r="2.2" fill="#fff" opacity="0.24"/><circle cx="433" cy="93" r="2.2" fill="#fff" opacity="0.58"/><circle cx="201" cy="454" r="1.6" fill="#fff" opacity="0.48"/><circle cx="54" cy="327" r="2.2" fill="#fff" opacity="0.44"/><circle cx="322" cy="290" r="2.2" fill="#fff" opacity="0.44"/><circle cx="8" cy="326" r="1" fill="#fff" opacity="0.18"/><circle cx="180" cy="333" r="2.2" fill="#fff" opacity="0.22"/><circle cx="214" cy="108" r="1.6" fill="#fff" opacity="0.29"/><circle cx="76" cy="517" r="1" fill="#fff" opacity="0.44"/><circle cx="425" cy="151" r="1" fill="#fff" opacity="0.53"/><circle cx="426" cy="204" r="1.6" fill="#fff" opacity="0.27"/><circle cx="217" cy="157" r="1.6" fill="#fff" opacity="0.56"/><circle cx="99" cy="466" r="1" fill="#fff" opacity="0.43"/><circle cx="148" cy="418" r="2.2" fill="#fff" opacity="0.36"/><circle cx="199" cy="126" r="1" fill="#fff" opacity="0.57"/><circle cx="359" cy="339" r="1.6" fill="#fff" opacity="0.50"/><circle cx="183" cy="131" r="1" fill="#fff" opacity="0.29"/><circle cx="209" cy="232" r="2.2" fill="#fff" opacity="0.33"/><circle cx="15" cy="123" r="1" fill="#fff" opacity="0.18"/><circle cx="260" cy="597" r="1" fill="#fff" opacity="0.57"/><circle cx="406" cy="561" r="1" fill="#fff" opacity="0.47"/><ellipse cx="483" cy="228" rx="4" ry="13" fill="#f8e0d4" opacity="0.15" transform="rotate(165 570 426)"/><ellipse cx="59" cy="531" rx="3" ry="10" fill="#f8e0d4" opacity="0.15" transform="rotate(162 341 181)"/><ellipse cx="495" cy="143" rx="8" ry="15" fill="#f8e0d4" opacity="0.07" transform="rotate(138 559 96)"/><ellipse cx="64" cy="226" rx="7" ry="10" fill="#f8e0d4" opacity="0.12" transform="rotate(9 92 299)"/><ellipse cx="181" cy="491" rx="6" ry="12" fill="#f8e0d4" opacity="0.11" transform="rotate(46 581 73)"/><ellipse cx="571" cy="374" rx="3" ry="12" fill="#f8e0d4" opacity="0.14" transform="rotate(57 346 252)"/><ellipse cx="267" cy="263" rx="4" ry="9" fill="#f8e0d4" opacity="0.11" transform="rotate(101 386 0)"/><ellipse cx="34" cy="166" rx="6" ry="13" fill="#f8e0d4" opacity="0.15" transform="rotate(123 577 284)"/><ellipse cx="409" cy="395" rx="4" ry="8" fill="#f8e0d4" opacity="0.09" transform="rotate(149 539 97)"/><ellipse cx="565" cy="599" rx="7" ry="10" fill="#f8e0d4" opacity="0.07" transform="rotate(90 199 278)"/><ellipse cx="459" cy="2" rx="7" ry="11" fill="#f8e0d4" opacity="0.15" transform="rotate(15 332 148)"/><ellipse cx="191" cy="370" rx="8" ry="15" fill="#f8e0d4" opacity="0.13" transform="rotate(169 182 98)"/><ellipse cx="220" cy="355" rx="4" ry="14" fill="#f8e0d4" opacity="0.10" transform="rotate(126 75 227)"/><ellipse cx="208" cy="469" rx="6" ry="11" fill="#f8e0d4" opacity="0.12" transform="rotate(0 435 242)"/><ellipse cx="383" cy="97" rx="5" ry="15" fill="#f8e0d4" opacity="0.08" transform="rotate(4 522 369)"/><ellipse cx="517" cy="280" rx="5" ry="15" fill="#f8e0d4" opacity="0.14" transform="rotate(1 285 17)"/><ellipse cx="281" cy="487" rx="8" ry="13" fill="#f8e0d4" opacity="0.15" transform="rotate(37 41 275)"/><ellipse cx="589" cy="358" rx="3" ry="15" fill="#f8e0d4" opacity="0.07" transform="rotate(145 99 135)"/>
+  <g transform="translate(300,310) scale(1.15)" opacity="0.2"><circle r="150" fill="none" stroke="#f8e0d4" stroke-width="2"/><circle r="112" fill="#f8e0d4" opacity="0.35"/></g>
+  <circle cx="300" cy="300" r="208" fill="none" stroke="#f8e0d4" stroke-opacity="0.22" stroke-width="1.5"/>
+  <circle cx="300" cy="300" r="196" fill="none" stroke="#f8e0d4" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="300" y="352" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="250" font-weight="700" fill="#f8e0d4" opacity="0.92" style="letter-spacing:-8px">藤</text>
+  <g opacity="0.9">
+    <rect x="42" y="42" width="76" height="76" rx="6" fill="none" stroke="#f8e0d4" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="80" y="98" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="46" fill="#f8e0d4" opacity="0.9">东</text>
+    <text x="80" y="138" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#f8e0d4" opacity="0.45" letter-spacing="1">东方Project</text>
+  </g>
+  <g transform="translate(300,545)">
+    <line x1="-86" y1="0" x2="86" y2="0" stroke="#f8e0d4" stroke-opacity="0.35"/>
+  </g>
+  <g transform="translate(512,66)">
+    <rect x="-31" y="-31" width="62" height="62" rx="4" fill="#9e3b32" opacity="0.9"/>
+    <rect x="-26" y="-26" width="52" height="52" rx="2" fill="none" stroke="#f6e6d8" stroke-opacity="0.55"/>
+    <text y="-2" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="19" fill="#f6e6d8">幻</text>
+    <text y="20" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="19" fill="#f6e6d8">想</text>
+  </g>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#4f1a1a"/><stop offset="0.55" stop-color="#842b2b"/>
+    <stop offset="1" stop-color="#341111"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.28" cy="0.2" r="0.8">
+    <stop offset="0" stop-color="#c36b6b" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#b03a3a" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.6" fill="#fff" opacity="0.05"/>
+  </pattern>
+  <clipPath id="clip"><rect width="600" height="600" rx="0"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <rect width="600" height="600" fill="url(#glow)"/>
+  <rect width="600" height="600" fill="url(#grain)"/>
+  <circle cx="277" cy="263" r="1" fill="#fff" opacity="0.31"/><circle cx="79" cy="544" r="1" fill="#fff" opacity="0.24"/><circle cx="28" cy="220" r="1" fill="#fff" opacity="0.56"/><circle cx="68" cy="350" r="1" fill="#fff" opacity="0.49"/><circle cx="523" cy="442" r="2.2" fill="#fff" opacity="0.43"/><circle cx="128" cy="251" r="1" fill="#fff" opacity="0.48"/><circle cx="68" cy="77" r="1.6" fill="#fff" opacity="0.44"/><circle cx="160" cy="566" r="1" fill="#fff" opacity="0.16"/><circle cx="232" cy="500" r="2.2" fill="#fff" opacity="0.48"/><circle cx="392" cy="507" r="1.6" fill="#fff" opacity="0.22"/><circle cx="158" cy="391" r="2.2" fill="#fff" opacity="0.19"/><circle cx="90" cy="402" r="1.6" fill="#fff" opacity="0.48"/><circle cx="364" cy="355" r="1.6" fill="#fff" opacity="0.50"/><circle cx="180" cy="98" r="1.6" fill="#fff" opacity="0.18"/><circle cx="90" cy="532" r="1" fill="#fff" opacity="0.44"/><circle cx="229" cy="537" r="1.6" fill="#fff" opacity="0.42"/><circle cx="114" cy="437" r="1" fill="#fff" opacity="0.44"/><circle cx="118" cy="80" r="1" fill="#fff" opacity="0.55"/><circle cx="564" cy="561" r="2.2" fill="#fff" opacity="0.30"/><circle cx="351" cy="113" r="1.6" fill="#fff" opacity="0.53"/><circle cx="389" cy="108" r="1" fill="#fff" opacity="0.57"/><circle cx="277" cy="592" r="1" fill="#fff" opacity="0.26"/><circle cx="295" cy="532" r="2.2" fill="#fff" opacity="0.24"/><circle cx="37" cy="123" r="1" fill="#fff" opacity="0.36"/><circle cx="51" cy="128" r="1" fill="#fff" opacity="0.35"/><circle cx="564" cy="567" r="1.6" fill="#fff" opacity="0.30"/><ellipse cx="158" cy="287" rx="4" ry="14" fill="#f8e0d0" opacity="0.06" transform="rotate(82 131 433)"/><ellipse cx="585" cy="137" rx="6" ry="10" fill="#f8e0d0" opacity="0.12" transform="rotate(31 442 465)"/><ellipse cx="7" cy="132" rx="8" ry="16" fill="#f8e0d0" opacity="0.11" transform="rotate(94 105 70)"/><ellipse cx="478" cy="311" rx="7" ry="11" fill="#f8e0d0" opacity="0.15" transform="rotate(127 363 147)"/><ellipse cx="478" cy="33" rx="5" ry="9" fill="#f8e0d0" opacity="0.12" transform="rotate(89 488 468)"/><ellipse cx="165" cy="454" rx="8" ry="14" fill="#f8e0d0" opacity="0.13" transform="rotate(123 463 572)"/><ellipse cx="118" cy="196" rx="5" ry="15" fill="#f8e0d0" opacity="0.15" transform="rotate(71 89 430)"/><ellipse cx="49" cy="295" rx="4" ry="11" fill="#f8e0d0" opacity="0.15" transform="rotate(109 374 302)"/><ellipse cx="396" cy="599" rx="7" ry="8" fill="#f8e0d0" opacity="0.13" transform="rotate(1 227 72)"/><ellipse cx="52" cy="201" rx="4" ry="10" fill="#f8e0d0" opacity="0.11" transform="rotate(108 144 526)"/><ellipse cx="10" cy="336" rx="8" ry="12" fill="#f8e0d0" opacity="0.12" transform="rotate(111 56 566)"/><ellipse cx="569" cy="584" rx="7" ry="10" fill="#f8e0d0" opacity="0.13" transform="rotate(10 503 534)"/><ellipse cx="255" cy="371" rx="4" ry="13" fill="#f8e0d0" opacity="0.10" transform="rotate(158 392 405)"/><ellipse cx="190" cy="454" rx="4" ry="14" fill="#f8e0d0" opacity="0.16" transform="rotate(3 2 169)"/><ellipse cx="141" cy="411" rx="8" ry="10" fill="#f8e0d0" opacity="0.10" transform="rotate(68 416 447)"/><ellipse cx="157" cy="395" rx="3" ry="10" fill="#f8e0d0" opacity="0.09" transform="rotate(10 403 402)"/><ellipse cx="101" cy="520" rx="8" ry="14" fill="#f8e0d0" opacity="0.07" transform="rotate(95 277 120)"/><ellipse cx="291" cy="316" rx="5" ry="16" fill="#f8e0d0" opacity="0.09" transform="rotate(1 227 390)"/>
+  <g transform="translate(300,310) scale(1.15)" fill="#f8e0d0" opacity="0.2"><path d="M0 -150 C60 -60 90 -20 60 40 C40 90 -40 90 -60 40 C-90 -20 -60 -60 0 -150 Z"/><path d="M0 -40 C26 0 30 30 10 55 C-10 75 -34 55 -30 30 C-26 10 -10 10 0 -40 Z" fill="#fff" opacity="0.4"/></g>
+  <circle cx="300" cy="300" r="208" fill="none" stroke="#f8e0d0" stroke-opacity="0.22" stroke-width="1.5"/>
+  <circle cx="300" cy="300" r="196" fill="none" stroke="#f8e0d0" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="300" y="352" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="250" font-weight="700" fill="#f8e0d0" opacity="0.92" style="letter-spacing:-8px">饕</text>
+  <g opacity="0.9">
+    <rect x="42" y="42" width="76" height="76" rx="6" fill="none" stroke="#f8e0d0" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="80" y="98" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="46" fill="#f8e0d0" opacity="0.9">东</text>
+    <text x="80" y="138" text-anchor="middle" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="9" fill="#f8e0d0" opacity="0.45" letter-spacing="1">东方Project</text>
+  </g>
+  <g transform="translate(300,545)">
+    <line x1="-86" y1="0" x2="86" y2="0" stroke="#f8e0d0" stroke-opacity="0.35"/>
+  </g>
+  <g transform="translate(512,66)">
+    <rect x="-31" y="-31" width="62" height="62" rx="4" fill="#9e3b32" opacity="0.9"/>
+    <rect x="-26" y="-26" width="52" height="52" rx="2" fill="none" stroke="#f6e6d8" stroke-opacity="0.55"/>
+    <text y="-2" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="19" fill="#f6e6d8">幻</text>
+    <text y="20" text-anchor="middle" font-family="Songti SC,STSong,SimSun,serif" font-size="19" fill="#f6e6d8">想</text>
+  </g>
+</g>
+</svg>

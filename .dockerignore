@@ -1,0 +1,14 @@
+config.json
+config.json.tmp
+runtime_url.txt
+data/saves/*
+!data/saves/.gitkeep
+docs/
+tools/
+GensokyoTavern-Android/
+*.apk
+__pycache__/
+**/__pycache__/
+*.pyc
+.git/
+.gitignore

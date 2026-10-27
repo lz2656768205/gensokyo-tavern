@@ -1,0 +1,412 @@
+{
+ "nodes": [
+  {
+   "id": "Home",
+   "name": "夜雀小屋",
+   "x": 160,
+   "y": 500,
+   "type": "home",
+   "title": "夜雀食堂",
+   "description": "坐落在兽道的小树屋。原本只是个大一些的鸟巢，经过米斯蒂娅长年累月的拾掇，渐渐才有了家的模样。用麻雀虽小五脏俱全来形容是再合适不过。",
+   "characters": [
+    "MystiaLorelei",
+    "KasodaniKyouko"
+   ]
+  },
+  {
+   "id": "BeastForest",
+   "name": "妖怪兽道",
+   "x": 320,
+   "y": 520,
+   "type": "path",
+   "title": "妖怪兽道",
+   "description": "因经常被目击到妖怪往来，故被人类称为妖怪兽道。这是从村子到博丽神社的必经之路，由于安全没有保障，鲜少有人类通行，却是妖怪的乐园。",
+   "characters": [
+    "WriggleNightbug",
+    "MystiaLorelei",
+    "KasodaniKyouko"
+   ]
+  },
+  {
+   "id": "HumanVillage",
+   "name": "人间之里",
+   "x": 480,
+   "y": 500,
+   "type": "village",
+   "title": "人间之里",
+   "description": "幻想乡最多人类居住的地方，被妖怪贤者在背后保护着。虽然也有不少妖怪盘旋，但都是些安分的妖怪，因此是个相对和平的地方。",
+   "characters": [
+    "HiedanoAkyuu",
+    "KamishirasawaKeine",
+    "MotooriKosuzu",
+    "Sekibanki",
+    "HataNoKokoro"
+   ]
+  },
+  {
+   "id": "HakureiShrine",
+   "name": "博丽神社",
+   "x": 690,
+   "y": 540,
+   "type": "shrine",
+   "title": "博丽神社",
+   "description": "坐落在幻想乡东方的尽头、能够一览幻想乡的本土神社。该神社在幻想乡是个特殊的存在，尤其是历届博丽巫女都有着绝对性的地位。据说幻想乡的建立和初代博丽巫女大有渊源。",
+   "characters": [
+    "HakureiReimu",
+    "IbukiSuika",
+    "KomanoAunn",
+    "Mima"
+   ]
+  },
+  {
+   "id": "MistyLake",
+   "name": "雾之湖",
+   "x": 360,
+   "y": 260,
+   "type": "lake",
+   "title": "雾之湖",
+   "description": "雾之湖是幻想乡北部的湖泊，终年雾气弥漫，琪露诺与露米娅常在此出没。",
+   "characters": [
+    "Cirno",
+    "Rumia",
+    "Wakasagihime"
+   ]
+  },
+  {
+   "id": "ScarletMansion",
+   "name": "红魔馆",
+   "x": 500,
+   "y": 230,
+   "type": "mansion",
+   "title": "红魔馆",
+   "description": "来自外界的恶魔之馆，无论是建筑的风格还是住民的风格都和幻想乡格格不入。但馆主偶尔会招待人类来参加宴会，这幅不管什么身份都能一起开宴会的景象恰恰是幻想乡的风格。",
+   "characters": [
+    "RemiliaScarlet",
+    "IzayoiSakuya",
+    "PatchouliKnowledge",
+    "FlandreScarlet",
+    "HongMeiling"
+   ]
+  },
+  {
+   "id": "MagicForest",
+   "name": "魔法森林",
+   "x": 270,
+   "y": 330,
+   "type": "forest",
+   "title": "魔法森林",
+   "description": "幻想乡湿度最高的原始森林，弥漫着妖怪蘑菇释放的瘴气。不仅少有人类踏足，就连一般的妖怪也不乐意呆在这里。但意外地适合魔法使居住。",
+   "characters": [
+    "KirisameMarisa",
+    "AliceMargatroid",
+    "EternityLarva",
+    "NarumiYatadera"
+   ]
+  },
+  {
+   "id": "BambooForest",
+   "name": "迷途竹林",
+   "x": 650,
+   "y": 700,
+   "type": "forest",
+   "title": "迷途竹林",
+   "description": "这片竹林不但广阔，竹子的生长速度也快得不合常理，地面和竹子还有些倾斜，置于其中极易让人昏头转向。据说就连妖精都会迷路。",
+   "characters": [
+    "HuziwaranoMokou",
+    "ImaizumiKagerou"
+   ]
+  },
+  {
+   "id": "Eientei",
+   "name": "永远亭",
+   "x": 800,
+   "y": 720,
+   "type": "mansion",
+   "title": "永远亭",
+   "description": "永远亭藏在迷途竹林深处，住着月之公主辉夜、八意永琳、铃仙与因幡帝。",
+   "characters": [
+    "HouraisanKaguya",
+    "YagokoroEirin",
+    "ReisenUdongeinInaba",
+    "InabaTewi"
+   ]
+  },
+  {
+   "id": "YoukaiMountain",
+   "name": "妖怪之山",
+   "x": 790,
+   "y": 320,
+   "type": "mountain",
+   "title": "妖怪之山",
+   "description": "幻想乡中最具代表性的大山，经常能从山下看到山顶冒出的浓烟。山上盘踞了各种妖怪，还发展出各种盘根错节的妖怪势力。对山外的人类、甚至妖怪来说，这里都是一个神秘且危险之地。",
+   "characters": [
+    "ShameimaruAya",
+    "InubashiriMomizi",
+    "KawasiroNitori",
+    "KagiyamaHina"
+   ]
+  },
+  {
+   "id": "MoriyaShrine",
+   "name": "守矢神社",
+   "x": 900,
+   "y": 260,
+   "type": "shrine",
+   "title": "守矢神社",
+   "description": "守矢神社迁到妖怪之山后建立的神社，祭祀八坂神奈子与洩矢诸访子，东风谷早苗担任风祝。",
+   "characters": [
+    "KochiyaSanae",
+    "YasakaKanako",
+    "MoriyaSuwako"
+   ]
+  },
+  {
+   "id": "FormerHell",
+   "name": "旧地狱",
+   "x": 520,
+   "y": 760,
+   "type": "underground",
+   "title": "旧地狱",
+   "description": "从幻想风穴穿过地狱的深道，就可以来到旧地狱。旧地狱原本为灼热地狱，随着地狱轻量化计划而被废弃后，如今已经成了那些无法无天的妖怪们的住处。这些妖怪在地底构建出新的社会体系，还建立了夜夜笙歌的“旧都”。",
+   "characters": [
+    "HoshigumaYugi",
+    "OnozukaKomachi",
+    "MizuhashiParsee",
+    "KurodaniYamame",
+    "Kisume"
+   ]
+  },
+  {
+   "id": "EarthSpiritsPalace",
+   "name": "地灵殿",
+   "x": 390,
+   "y": 790,
+   "type": "underground",
+   "title": "地灵殿",
+   "description": "在旧都的中心坐落着一座和街道风格迥异的宫殿，其下方为灼热地狱遗址。传说地灵殿里面聚集了大量的动物和怨灵，虽然地底都市已经被排除在地狱之外，但遗留在此的大量怨灵必须有人管理。地灵殿之主便是被委托管理灼热地狱遗址的妖怪。",
+   "characters": [
+    "KomeijiSatori",
+    "KomeijiKoishi",
+    "KaenbyouRin",
+    "ReiujiUtsuho"
+   ]
+  },
+  {
+   "id": "Hakugyokurou",
+   "name": "白玉楼",
+   "x": 760,
+   "y": 860,
+   "type": "other",
+   "title": "白玉楼",
+   "description": "坐落于幻想乡冥界的一栋和风古建筑，是亡灵的生活场所，据说在千年以前就存在在这里了。拥有一年四季不断盛放的樱花，充满幽静又浪漫的气氛。",
+   "characters": [
+    "SaigyoujiYuyuko",
+    "KonpakuYoumu"
+   ]
+  },
+  {
+   "id": "GardenOfTheSun",
+   "name": "太阳花田",
+   "x": 220,
+   "y": 640,
+   "type": "field",
+   "title": "太阳花田",
+   "description": "位于幻想乡深处有一片黄色、让人目眩的大草原，黄色的正体其实是一大片向日葵，所以这里也被称为太阳花田。妖精们尤其喜欢在这片花田玩耍，来访时要小心别成为妖精的游戏内容。",
+   "characters": [
+    "KazamiYuka"
+   ]
+  },
+  {
+   "id": "MyourenTemple",
+   "name": "命莲寺",
+   "x": 600,
+   "y": 610,
+   "type": "temple",
+   "title": "命莲寺",
+   "description": "坐落在村子外围的新寺院。这里一视同仁地接收人类与妖怪信徒，甚至还有曾在地底长驻的妖怪们，可谓是座来者不拒的宗教设施。",
+   "characters": [
+    "KasodaniKyouko",
+    "HijiriByakuren",
+    "MurasaMinamitsu",
+    "HoujuuNue",
+    "KumoiIchirin",
+    "FutatsuiwaMamizou",
+    "Nazrin"
+   ]
+  },
+  {
+   "id": "DivineSpiritMausoleum",
+   "name": "神灵庙",
+   "x": 720,
+   "y": 610,
+   "type": "temple",
+   "title": "神灵庙",
+   "description": "原本位于梦殿大祀庙内部，丰聪耳神子复活后将其迁入自己开辟的仙界中，并在此建造了新的道场。可以通过仙界瞬间转移到幻想乡的任何地点。",
+   "characters": [
+    "ToyosatomimiMiko",
+    "MononobeFuto",
+    "SogaToziko",
+    "KakuSeiga",
+    "MiyakoYoshika"
+   ]
+  },
+  {
+   "id": "ShiningNeedleCastle",
+   "name": "辉针城",
+   "x": 600,
+   "y": 380,
+   "type": "castle",
+   "title": "辉针城",
+   "description": "漂浮于幻想乡上空的逆城，城主是一寸法师的后裔，少名针妙丸。本该是小人族的城池，如今却到处都是不良在活动，整座城变得更加不伦不类……",
+   "characters": [
+    "SukunaShinmyoumaru",
+    "KijinSeija"
+   ]
+  },
+  {
+   "id": "PartyStage",
+   "name": "舞台",
+   "x": 560,
+   "y": 330,
+   "type": "stage",
+   "title": "舞台",
+   "description": "由八云集团赞助、鸟兽伎乐策划、土蜘蛛工程队搭建的演唱会舞台。在极短的时间下能布置到这种程度，筹备者和观众都十分满意。",
+   "characters": [
+    "KasodaniKyouko"
+   ]
+  },
+  {
+   "id": "LunarCapital",
+   "name": "月之都",
+   "x": 920,
+   "y": 110,
+   "type": "moon",
+   "title": "月之都",
+   "description": "存在于月球背面的大都市，常被称作“无秽净土”，与死后世界有很多相似的地方。此处为月都的瓮城，在无战乱时常被当作守城部队屯兵练兵的场所。有着远胜于幻想乡及外界的人类文明，因此月之住民更加倾向于提高精神上的充足感。",
+   "characters": [
+    "ReisenUdongeinInaba",
+    "WatatsukiToyohime",
+    "WatatsukiYorihime"
+   ]
+  },
+  {
+   "id": "Makai",
+   "name": "魔界",
+   "x": 120,
+   "y": 140,
+   "type": "makai",
+   "title": "魔界",
+   "description": "位于幻想乡以外的异世界。魔界中的一切物质都拥有自我意识，且所有魔界住民都是魔界之主的创造物。这里不仅被结界封锁，还有很重的瘴气，不适合非魔界生物生存，也无法轻易进入。",
+   "characters": [
+    "Shinki",
+    "Yumeko",
+    "Ellen",
+    "Luize",
+    "Sara"
+   ]
+  },
+  {
+   "id": "HakureiFestival",
+   "name": "博丽大祭",
+   "x": 680,
+   "y": 430,
+   "type": "shrine",
+   "title": "博丽大祭",
+   "description": "N/A",
+   "characters": [
+    "HakureiReimu"
+   ]
+  }
+ ],
+ "edges": [
+  [
+   "Home",
+   "BeastForest"
+  ],
+  [
+   "BeastForest",
+   "HumanVillage"
+  ],
+  [
+   "HumanVillage",
+   "HakureiShrine"
+  ],
+  [
+   "HumanVillage",
+   "MagicForest"
+  ],
+  [
+   "MagicForest",
+   "MistyLake"
+  ],
+  [
+   "MistyLake",
+   "ScarletMansion"
+  ],
+  [
+   "HumanVillage",
+   "BambooForest"
+  ],
+  [
+   "BambooForest",
+   "Eientei"
+  ],
+  [
+   "HumanVillage",
+   "MyourenTemple"
+  ],
+  [
+   "MyourenTemple",
+   "DivineSpiritMausoleum"
+  ],
+  [
+   "HumanVillage",
+   "GardenOfTheSun"
+  ],
+  [
+   "HumanVillage",
+   "FormerHell"
+  ],
+  [
+   "FormerHell",
+   "EarthSpiritsPalace"
+  ],
+  [
+   "HakureiShrine",
+   "YoukaiMountain"
+  ],
+  [
+   "YoukaiMountain",
+   "MoriyaShrine"
+  ],
+  [
+   "HakureiShrine",
+   "HakureiFestival"
+  ],
+  [
+   "HakureiShrine",
+   "PartyStage"
+  ],
+  [
+   "BambooForest",
+   "Hakugyokurou"
+  ],
+  [
+   "YoukaiMountain",
+   "ShiningNeedleCastle"
+  ],
+  [
+   "MistyLake",
+   "MagicForest"
+  ],
+  [
+   "LunarCapital",
+   "Eientei"
+  ],
+  [
+   "Makai",
+   "ScarletMansion"
+  ]
+ ],
+ "note": "据《东方夜雀食堂》场景与文本整理；坐标为示意，不是游戏内坐标。"
+}
